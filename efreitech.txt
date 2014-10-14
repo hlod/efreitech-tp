@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-"failtest" 
-blabla
-=======
-"Yooo" 
-azert
-hello world
-rthrthtrh
->>>>>>> 4004fbd7a559e220f609572924c88ae7f2d1cee5
+"blabla" 
